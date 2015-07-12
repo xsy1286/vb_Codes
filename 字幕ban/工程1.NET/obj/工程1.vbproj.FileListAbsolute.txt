@@ -1,0 +1,3 @@
+H:\快盘\IT\vb Codes\zhimu\工程1.NET\obj\Debug\ResolveAssemblyReference.cache
+H:\快盘\IT\vb Codes\zhimu\工程1.NET\obj\Debug\1¤3ì1.Form1.resources
+H:\快盘\IT\vb Codes\zhimu\工程1.NET\obj\Debug\工程1.vbproj.GenerateResource.Cache

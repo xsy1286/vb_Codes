@@ -1,0 +1,21 @@
+[History]
+1=#P0#=mb	#P1#=Command1_Click	#P2#=工程1/main/Command1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140118133829	#P7#=0	#P8#=15	.
+2=#P0#=mb	#P1#=txtCrt	#P2#=工程1/txt/txtCrt	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140118133741	#P7#=0	#P8#=1	.
+3=#P0#=mb	#P1#=txtAppend	#P2#=工程1/txt/txtAppend	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140118133748	#P7#=0	#P8#=14	.
+4=#P0#=mb	#P1#=oControl_Timer	#P2#=工程1/Form1/oControl_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140118121309	#P7#=0	#P8#=33	.
+5=#P0#=mb	#P1#=DoDrag	#P2#=工程1/screen_attribute/DoDrag	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140118114058	#P7#=0	#P8#=6	.
+6=#P0#=mb	#P1#=Form_Load	#P2#=工程1/frmScr/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140118114042	#P7#=0	#P8#=1	.
+7=#P0#=mb	#P1#=Form_Unload	#P2#=工程1/Form1/Form_Unload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140118112649	#P7#=0	#P8#=-1	.
+8=#P0#=mb	#P1#=lb1_Click	#P2#=工程1/Form1/lb1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140118112649	#P7#=0	#P8#=2	.
+9=#P0#=mb	#P1#=Form_Load	#P2#=工程1/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140118112530	#P7#=0	#P8#=21	.
+10=#P0#=mb	#P1#=Form_Click	#P2#=工程1/Form1/Form_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140118112501	#P7#=0	#P8#=1	.
+11=#P0#=mb	#P1#=n_off_Click	#P2#=工程1/JustforMenu/n_off_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140118112348	#P7#=0	#P8#=4	.
+12=#P0#=mb	#P1#=all_Screen	#P2#=工程1/screen_attribute/all_Screen	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140118111047	#P7#=0	#P8#=1	.
+13=#P0#=mb	#P1#=hook	#P2#=工程1/winHook/hook	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140118110706	#P7#=0	#P8#=4	.
+14=#P0#=mb	#P1#=UnHooK	#P2#=工程1/winHook/UnHooK	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140118110654	#P7#=0	#P8#=1	.
+15=#P0#=mb	#P1#=Form_MouseMove	#P2#=工程1/Form1/Form_MouseMove	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140118110155	#P7#=0	#P8#=6	.
+16=#P0#=mb	#P1#=setAttribute	#P2#=工程1/Win_Attribute/setAttribute	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140118105524	#P7#=0	#P8#=19	.
+17=#P0#=mb	#P1#=fnHook	#P2#=工程1/Form1/fnHook	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140118105438	#P7#=0	#P8#=1	.
+18=#P0#=mb	#P1#=MouseHook	#P2#=工程1/winHook/MouseHook	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140118103049	#P7#=0	#P8#=-1	.
+19=#P0#=mb	#P1#=try	#P2#=工程1/Form1/try	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140118090700	#P7#=0	#P8#=0	.
+20=#P0#=mb	#P1#=toTray	#P2#=工程1/Tray/toTray	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140118082653	#P7#=0	#P8#=-34	.

@@ -1,0 +1,22 @@
+首先在FORM中加一个Label控件，一个TextBox控件，一个CommandButton按钮
+'你可以用DateDiff函数,这个函数的作用就是判断2个日期型变量的差,DateDiff后边先跟的一个参数是选择按照什么方式计算差值(我们可以按照年,月,日等)
+'只需要在TEXT1中输入例如 2006-7-30 就能判断出2日期的日期之差
+Private Sub Command1_Click()
+Dim Str As String
+Str = Text1.Text
+Label1.Caption = DateDiff("d", CDate(Format(Now, "YYYY-MM-DD")), CDate(Format(Str, "yyyy-mm-dd")))
+'CDate强制转换。把变量强制转换成日期型变量
+'这里边第一“d”就是DateDiff的参数。如果按照年来判断，你把"d"改成"yyyy"就可以
+'yyyy 年
+'q 季
+'m 月
+'y 一年的日数
+'d 日
+'w 一周的日数
+'ww 周
+'h 时
+'n 分钟
+'s 秒
+'如果你输入的不想按照例如（2006-10-15）这样输入，只需要改Format(Str, "YYYY-MM-DD")这个里。把这里的"YYYY-MM-DD"改掉
+'（06-10-11，就改成Format(Str, "YY-MM-DD")
+End Sub

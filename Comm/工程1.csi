@@ -1,0 +1,12 @@
+[历史]
+1=#P0#=mb	#P1#=recComm	#P2#=工程1/MultiProcess/recComm	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20131029173344	#P7#=0	#P8#=5	.
+2=#P0#=mb	#P1#=xywhXC1	#P2#=工程1/MultiProcess/xywhXC1	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20131029173013	#P7#=0	#P8#=9	.
+3=#P0#=mb	#P1#=Form_Load	#P2#=工程1/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131029172327	#P7#=0	#P8#=1	.
+4=#P0#=mb	#P1#=MSComm1_OnComm	#P2#=工程1/Form1/MSComm1_OnComm	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131029164958	#P7#=0	#P8#=1	.
+5=#P0#=mb	#P1#=Check1_Click	#P2#=工程1/Form1/Check1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131029164548	#P7#=0	#P8#=3	.
+6=#P0#=mb	#P1#=cmdProcess_Click	#P2#=工程1/Form1/cmdProcess_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131029163715	#P7#=0	#P8#=1	.
+7=#P0#=mb	#P1#=Combo1_Click	#P2#=工程1/Form1/Combo1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131029163706	#P7#=0	#P8#=1	.
+8=#P0#=mb	#P1#=Text2_KeyUp	#P2#=工程1/Form1/Text2_KeyUp	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131029155759	#P7#=0	#P8#=4	.
+9=#P0#=mb	#P1#=whenErr	#P2#=工程1/ErrorLog/whenErr	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20131029154901	#P7#=0	#P8#=-2	.
+10=#P0#=mb	#P1#=Command3_Click	#P2#=工程1/Form1/Command3_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131029154205	#P7#=0	#P8#=-1	.
+11=#P0#=mb	#P1#=Command1_Click	#P2#=工程1/Form1/Command1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131029143551	#P7#=0	#P8#=0	.

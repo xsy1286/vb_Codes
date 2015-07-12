@@ -1,0 +1,11 @@
+Form1 = 100, 100, 1194, 513, Z, 25, 25, 1098, 439, C
+ErrorLog = 125, 125, 1219, 538, 
+link2link = 175, 175, 1109, 615, 
+Sim_MouseKey = 75, 75, 1009, 515, 
+txt_init = 150, 150, 1084, 590, 
+txt = 200, 200, 1134, 640, 
+WinBottomBar = 50, 50, 1084, 443, 
+Commom_Struction = 150, 150, 983, 543, 
+screen_attribute = 50, 50, 883, 443, 
+MemOperation = 100, 100, 945, 515, 
+HotKey = 150, 150, 995, 543, 

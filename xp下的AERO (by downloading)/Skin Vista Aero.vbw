@@ -1,0 +1,16 @@
+aicAlphaImage = 44, 54, 448, 528, , 44, 44, 644, 521, C
+ppgSourceImage = 88, 108, 492, 582, , 66, 66, 666, 543, C
+cGIFparser = 110, 135, 514, 609, 
+cCDECL = 44, 54, 448, 528, Z
+cPNGparser = 154, 189, 558, 663, 
+cPNGwriter = 176, 216, 580, 690, 
+cBMPparser = 22, 27, 426, 501, 
+c32bppDIB = 0, 0, 404, 474, 
+cICOparser = 132, 162, 536, 636, 
+cGDIPlus = 88, 108, 492, 582, 
+ICrossComm = 0, 0, 404, 474, 
+cCrossComm = 66, 81, 470, 555, 
+Aero = 22, 22, 622, 499, , 22, 22, 622, 499, C
+modSystray = 66, 66, 666, 543, 
+MScreen = 88, 88, 688, 565, 
+modParsers = 44, 44, 644, 521, 

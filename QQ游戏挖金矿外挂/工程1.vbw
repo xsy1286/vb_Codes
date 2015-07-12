@@ -1,0 +1,10 @@
+Form1 = 50, 50, 895, 465, , 25, 25, 870, 440, C
+screen_attribute = 100, 100, 945, 493, 
+ErrorLog = 75, 75, 1097, 442, 
+Sim_MouseKey = 175, 175, 1020, 568, 
+txt = 125, 125, 970, 518, 
+txt_init = 150, 150, 995, 543, 
+Tray = 0, 0, 845, 393, 
+MemOperation = 25, 25, 870, 418, Z
+Commom_Struction = 125, 125, 970, 540, 
+privilege = 150, 150, 995, 565, 

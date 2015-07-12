@@ -1,0 +1,5 @@
+[历史]
+1=#P0#=mb	#P1#=Form_Click	#P2#=工程_模拟windows鼠标键盘操作/Form1/Form_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131029232752	#P7#=0	#P8#=28	.
+2=#P0#=mb	#P1#=waittime	#P2#=工程_模拟windows鼠标键盘操作/Form1/waittime	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20131029232658	#P7#=0	#P8#=5	.
+3=#P0#=mb	#P1#=AutoMouse	#P2#=工程_模拟windows鼠标键盘操作/Form1/AutoMouse	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20131029213138	#P7#=0	#P8#=0	.
+4=#P0#=mb	#P1#=VirtualClickMouse	#P2#=工程_模拟windows鼠标键盘操作/Form1/VirtualClickMouse	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20131029212459	#P7#=0	#P8#=4	.

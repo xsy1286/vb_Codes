@@ -1,0 +1,13 @@
+[History]
+1=#P0#=mb	#P1#=Form_Unload	#P2#=Vb工程1/EditForm/Form_Unload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131106231450	#P7#=0	#P8#=4	.
+2=#P0#=mb	#P1#=Form_Load	#P2#=Vb工程1/EditForm/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131106231349	#P7#=0	#P8#=1	.
+3=#P0#=mb	#P1#=Form_MouseUp	#P2#=Vb工程1/Form1/Form_MouseUp	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131106231331	#P7#=0	#P8#=5	.
+4=#P0#=mb	#P1#=Form_Load	#P2#=Vb工程1/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131106231151	#P7#=0	#P8#=1	.
+5=#P0#=mb	#P1#=Timer2_Timer	#P2#=Vb工程1/Form1/Timer2_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131106230442	#P7#=0	#P8#=1	.
+6=#P0#=mb	#P1#=Command1_Click	#P2#=Vb工程1/EditForm/Command1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131106230000	#P7#=0	#P8#=17	.
+7=#P0#=mb	#P1#=rdinitfin	#P2#=Vb工程1/EditForm/rdinitfin	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20131106225618	#P7#=0	#P8#=9	.
+8=#P0#=mb	#P1#=Check1_Click	#P2#=Vb工程1/EditForm/Check1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131106224857	#P7#=0	#P8#=11	.
+9=#P0#=mb	#P1#=Check3_Click	#P2#=Vb工程1/EditForm/Check3_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131106224142	#P7#=0	#P8#=4	.
+10=#P0#=mb	#P1#=Timer3_Timer	#P2#=Vb工程1/Form1/Timer3_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131106223635	#P7#=0	#P8#=1	.
+11=#P0#=mb	#P1#=Form_MouseDown	#P2#=Vb工程1/Form1/Form_MouseDown	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131106223004	#P7#=0	#P8#=6	.
+12=#P0#=mb	#P1#=top_Form	#P2#=Vb工程1/screen_attribute/top_Form	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131106221946	#P7#=0	#P8#=4	.

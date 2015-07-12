@@ -1,0 +1,14 @@
+[History]
+1=#P0#=mb	#P1#=Form_Load	#P2#=工程1/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140129215023	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=getPrivileges	#P2#=工程1/privilege/getPrivileges	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140129214357	#P7#=0	#P8#=16	.
+3=#P0#=mb	#P1#=whenErr	#P2#=工程1/ErrorLog/whenErr	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140129204856	#P7#=0	#P8#=1	.
+4=#P0#=mb	#P1#=myPrsOpenByhWnd	#P2#=工程1/MemOperation/myPrsOpenByhWnd	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140129215344	#P7#=0	#P8#=-1	.
+5=#P0#=mb	#P1#=myProcessopen	#P2#=工程1/MemOperation/myProcessopen	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140129204648	#P7#=0	#P8#=17	.
+6=#P0#=mb	#P1#=P2M	#P2#=工程1/MemOperation/P2M	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140129204314	#P7#=0	#P8#=14	.
+7=#P0#=mb	#P1#=Command1_Click	#P2#=工程1/Form1/Command1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140129215623	#P7#=0	#P8#=7	.
+8=#P0#=mb	#P1#=wrtMem	#P2#=工程1/MemOperation/wrtMem	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140129201759	#P7#=0	#P8#=5	.
+9=#P0#=mb	#P1#=getMem	#P2#=工程1/MemOperation/getMem	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140129215906	#P7#=0	#P8#=7	.
+10=#P0#=mb	#P1#=WndWid	#P2#=工程1/MemOperation/WndWid	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140129180201	#P7#=0	#P8#=2	.
+11=#P0#=mb	#P1#=nameToHwndEx	#P2#=工程1/MemOperation/nameToHwndEx	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140129175154	#P7#=0	#P8#=1	.
+12=#P0#=mb	#P1#=toTray	#P2#=工程1/Tray/toTray	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20140129174030	#P7#=0	#P8#=-29	.
+13=#P0#=mb	#P1#=init_txt	#P2#=工程1/txt_init/init_txt	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20140129173606	#P7#=0	#P8#=9	.
