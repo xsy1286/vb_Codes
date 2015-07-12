@@ -75,7 +75,7 @@ Begin VB.Form Form2
       Width           =   2055
    End
    Begin VB.CommandButton Command1 
-      Caption         =   "I have konwn"
+      Caption         =   "I have known"
       Height          =   735
       Left            =   9480
       TabIndex        =   1
@@ -149,12 +149,14 @@ Const SWP_NOMOVE = &H2
 Const SWP_NOACTIVATE = &H10
 Const SWP_SHOWWINDOW = &H40
 
+Const s0 = "Close,"
+Const s1 = "I have known"
 Sub SetFormTopmost(TheForm As Form)
 SetWindowPos Me.hwnd, HWND_TOPMOST, 0, 0, 0, 0, SWP_NOACTIVATE Or SWP_SHOWWINDOW Or SWP_NOMOVE Or SWP_NOSIZE
 End Sub
 
 Private Sub Command1_Click()
-If Command1.Caption = "Close,I have konwn" Then Unload Form2
+If Command1.Caption = s0 & s1 Then Unload Form2
 
 End Sub
 
@@ -193,7 +195,7 @@ Open "d:\Myuse\TC\2.txt" For Binary As #1
 d = Val(Input(LOF(1), 1))
 Close #1
 
-Command1.Caption = "Close,I have konwn" + Str(d)
+Command1.Caption = s0 & s1 + Str(d)
 
 Command1.Left = (Screen.Width / 2) + 1050
 
@@ -230,9 +232,9 @@ Label2.Caption = " Volume:": HScroll1.Visible = True: Command3.Visible = True: C
 End Sub
 
 Private Sub Timer1_Timer()
-Command1.Caption = "Close,I have konwn" + Str(d)
-If d = 0 Then Command1.Caption = "Close,I have konwn": Timer1.Interval = 0: Timer2.Interval = 0:: Form1.Show
-If d = 1 Then Timer2.Interval = 0
+Command1.Caption = s0 & s1 + Str(d)
+If d = 0 Then Command1.Caption = s0 & s1: Timer1.Interval = 0: Timer2.Interval = 0:: Form1.Show
+If d = 1 Then Timer2.Interval = 0: Timer2.Enabled = False
 If d > 0 Then d = d - 1
 
 
@@ -246,6 +248,5 @@ End Sub
 
 Private Sub Timer2_Timer()
 Form2.Show  '²»Í£µÄshow
-
 
 End Sub
