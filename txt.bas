@@ -38,7 +38,7 @@ txtCrt_Err:
     txtCrt = 0
         '</EhFooter>
 End Function
-
+''''''''''''''''±»wrTxt…Ÿ–¥D:\Myuse
 Public Function wr_txtEx(title As String, _
                          txtname As String, _
                          ByRef con() As String, _
