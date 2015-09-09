@@ -37,11 +37,11 @@ Begin VB.Form Form1
       Top             =   1920
    End
    Begin WMPLibCtl.WindowsMediaPlayer w1 
-      Height          =   3600
-      Left            =   690
+      Height          =   615
+      Left            =   720
       TabIndex        =   3
-      Top             =   330
-      Width           =   3675
+      Top             =   480
+      Width           =   1935
       URL             =   ""
       rate            =   1
       balance         =   0
@@ -65,8 +65,8 @@ Begin VB.Form Form1
       SAMIFilename    =   ""
       captioningID    =   ""
       enableErrorDialogs=   0   'False
-      _cx             =   6482
-      _cy             =   6350
+      _cx             =   3413
+      _cy             =   1085
    End
    Begin VB.Label Label1 
       BackColor       =   &H8000000D&
